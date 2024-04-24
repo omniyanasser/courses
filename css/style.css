@@ -1,0 +1,35 @@
+.format-button a:hover{
+ background-color: #1685da;
+ color: white;
+}
+
+
+
+.container .card-body .card-text svg:hover path {
+   fill: #e4b95b;
+
+} 
+
+.format-img{
+    height: 80vh !important;
+}
+
+
+
+.format-lastimg{
+    /* width: 190px; */
+    height: 350px;
+}
+
+.format-hidden span{
+    color:black !important;
+}
+
+.format-footer{
+    color: #1685da !important;
+}
+
+.border-footer{
+    border-top: 10px solid #1685da !important;
+    margin-top: 15px !important;
+}
